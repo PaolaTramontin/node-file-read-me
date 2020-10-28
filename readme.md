@@ -45,7 +45,8 @@ app.get(‘/‘, (req, res) =>{
 Now go to your browser, type localhost:8000   You should see hello world.
 
 
-............................GIT IGNORE ......................
+............................GIT IGNORE ..........................
+
 To ignore files:
 Create a .gitignore  file inside the folder
 Inside the .gitignore file, write the file name that you don’t want inside it.
